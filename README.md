@@ -1,3 +1,7 @@
+## Preview
+<img width="1065" height="595" alt="image" src="https://github.com/user-attachments/assets/5263dac5-e486-46c6-8d28-493120757618" />
+
+
 ## Installation
 
 ### 1. Download Configuration
